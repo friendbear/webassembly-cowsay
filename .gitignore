@@ -1,0 +1,7 @@
+
+wapm_packages/.bin/cowsay
+wapm_packages/.bin/cowthink
+wapm_packages/_/cowsay@0.2.0/target/wasm32-wasi/release/cowsay.wasm
+wapm_packages/_/cowsay@0.2.0/LICENSE
+wapm_packages/_/cowsay@0.2.0/README.md
+wapm_packages/_/cowsay@0.2.0/wapm.toml
